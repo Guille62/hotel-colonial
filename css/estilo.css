@@ -85,11 +85,20 @@ a:hover{
 	bottom: 0px;
 	position: fixed;
 }
-
+.footer a{
+	color: #333;
+	font-weight: bold;
+}
+.footer a:hover{
+	color: #555;
+}
 .img-hotel{
 	padding-top: 0px
 }
 
+.mt-5{
+	margin-top: 5rem;
+}
 
 @media screen and (min-width: 980px) {
 	.logo{
